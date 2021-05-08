@@ -3,6 +3,7 @@ title: "Movies Dashboard"
 author: "Razan Alsallumi , Buthaina AlQahtani , Waad AlSaleh , Abdullah Alothman"
 date: "5/8/2021"
 output: html_document
+runtime: shiny
 ---
 
 
@@ -210,13 +211,13 @@ server <- function(input, output) {
 ## Simple run for Movies Shiny App: 
 
 
-![Movies Dashboard Shiny App 1.](https://im4.ezgif.com/tmp/ezgif-4-6c6826184c2a.gif)
 
 
 
+![movies shiny app 2](https://user-images.githubusercontent.com/83886419/117554749-453f6c00-b062-11eb-9972-e95362decce5.gif)
 
+![movies shiny app 2](https://user-images.githubusercontent.com/83886419/117554777-80419f80-b062-11eb-834c-88c833ef5b36.gif)
 
-![Movies Dashboard Shiny App 2.](https://im4.ezgif.com/tmp/ezgif-4-6cc01a74d852.gif)
 
 
 ## Run App 
@@ -236,6 +237,19 @@ shinyApp(ui, server)
 
 A video to explain the code in detail (Line By Line)
 
+
+
+
+<figure class="video_container">
+  <iframe src="https://user-images.githubusercontent.com/83886419/117554562-3310fe00-b061-11eb-974d-8f9bfba53598.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+
+Video Link: https://vimeo.com/546967177
+
+## Open Source Code
+
+You can see our code on github here: https://github.com/RazanAlsallumi/movies_dashboard
 
 
 
